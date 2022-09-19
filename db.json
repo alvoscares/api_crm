@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "alvaro",
+      "empresa": "alvobusines",
+      "email": "alvoscares@gmail.com",
+      "telefono": "03513120595",
+      "notas": "hola mundo",
+      "id": 1
+    },
+    {
+      "nombre": "Duki",
+      "empresa": "minu",
+      "email": "duka@gmail.com",
+      "telefono": "234324",
+      "notas": "la dukesa gorda",
+      "id": 3
+    },
+    {
+      "nombre": "Bagheera",
+      "empresa": "Minus SA",
+      "email": "baghe@gmail.com",
+      "telefono": "03513120595",
+      "notas": "gatita mono",
+      "id": 4
+    }
+  ]
+}
